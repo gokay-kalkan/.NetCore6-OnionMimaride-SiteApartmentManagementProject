@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ApartmentManagement.UI
+build_property.RootNamespace = ApartmentManagement.UI
+build_property.ProjectDir = C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Presentation\ApartmentManagement.UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Presentation\ApartmentManagement.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Circle/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xDaXJjbGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Circle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xDaXJjbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Circle/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xDaXJjbGVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/DuesPayment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xEdWVzUGF5bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Dues/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xEdWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Dues/DelayedPayments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xEdWVzXERlbGF5ZWRQYXltZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Dues/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xEdWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Dues/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xEdWVzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Dues/UserGetPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xEdWVzXFVzZXJHZXRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Manager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNYW5hZ2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Manager/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xNYW5hZ2VyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/Shared/ManagerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xTaGFyZWRcTWFuYWdlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xVc2VyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xVc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/Manager/Views/User/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlclxWaWV3c1xVc2VyXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/Views/DuesPayment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xEdWVzUGF5bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/Views/Dues/DelayedPayments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xEdWVzXERlbGF5ZWRQYXltZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/Views/Dues/DuesPaid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xEdWVzXER1ZXNQYWlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/Views/Dues/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xEdWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/Views/Shared/UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcVXNlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xVc2VyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/User/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Areas/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gkykl/OneDrive/Masaüstü/ASP.NETCORE/ApartmentManagement/src/Presentation/ApartmentManagement.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oxa7n72wvx

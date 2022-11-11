@@ -1,0 +1,38 @@
+﻿@model ApartmentManagement.Application.Features.Users.Commands.UserCreateCommand.CreateUserCommand
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Manager/Views/Shared/ManagerLayout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <form method="post">
+                    <div asp-validation-summary="ModelOnly" class="text text-danger"></div>
+                    <label>Ad Soyad</label>
+                    <input asp-for="FullName" class="form-control"/>
+                    <br />
+                    <label>Email</label>
+                    <input asp-for="Email" class="form-control" type="email"/>
+                    <br />
+
+                    <label>Telefon</label>
+                    <input asp-for="PhoneNumber" class="form-control" />
+
+                    <br />
+
+                    <label>TC</label>
+                    <input asp-for="TcNo" class="form-control" />
+                    <br />
+
+                    <label>Şifre</label>
+                    <input asp-for="Password" class="form-control" type="password" />
+                    <br />
+                    <button type="submit" class="btn btn-primary">Ekle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

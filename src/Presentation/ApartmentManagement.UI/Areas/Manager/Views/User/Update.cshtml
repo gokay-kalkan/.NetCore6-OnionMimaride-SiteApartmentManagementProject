@@ -1,0 +1,39 @@
+﻿@model ApartmentManagement.Application.Features.Users.Models.UserGetByIdModel
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/Manager/Views/Shared/ManagerLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <form method="post">
+                    <input type="hidden" asp-for="UserId"/>
+                    <input type="hidden" asp-for="Password" />
+                    <label>Ad Soyad</label>
+                    <input asp-for="FullName" class="form-control" />
+                    <br />
+                    <label>Email</label>
+                    <input asp-for="Email" class="form-control" type="email" />
+                    <br />
+
+                    <label>Telefon</label>
+                    <input asp-for="PhoneNumber" class="form-control" />
+
+                    <br />
+
+                    <label>TC</label>
+                    <input asp-for="TcNo" class="form-control" />
+                    <br />
+                   
+                 
+                  
+                    <button type="submit" class="btn btn-primary">Güncelle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

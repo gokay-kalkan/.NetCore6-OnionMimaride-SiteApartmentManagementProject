@@ -1,0 +1,56 @@
+﻿@model ApartmentManagement.Application.Features.DuesPayments.Commands.DuesPaymentCreateCommand.CreateDuesPaymentCommand
+@{
+    ViewData["Title"] = "DuesPaid";
+    Layout = "~/Areas/User/Views/Shared/UserLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <form method="post">
+                   <input type="hidden" asp-for="UserId" value="@ViewBag.userid"/>
+                    
+
+
+                    <label>Aidat Fiyatı</label>
+                    <input asp-for="PaymentAmount" class="form-control" />
+                    <br />
+
+                    <label>Kart Numarası</label>
+
+                    <input asp-for="CardNumber" class="form-control" />
+
+                    <br />
+
+                    <label>Kart Adı</label>
+
+                    <input asp-for="CardName" class="form-control" />
+
+                    <br />
+
+                     <label>Son Kullanma Ayı</label>
+
+                    <input asp-for="ExpirationMonth" class="form-control" />
+
+                    <br />
+
+                    <label>Son Kullanma Yılı</label>
+
+                    <input asp-for="ExpirationYear" class="form-control" />
+
+                    <br />
+
+                    <label>Cvc</label>
+
+                    <input asp-for="Cvc" class="form-control" />
+
+                    <br />
+
+                    <button type="submit" class="btn btn-primary">Ekle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

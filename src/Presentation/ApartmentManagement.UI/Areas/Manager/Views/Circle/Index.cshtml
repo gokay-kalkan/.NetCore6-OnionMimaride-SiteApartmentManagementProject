@@ -1,0 +1,47 @@
+﻿@model List<ApartmentManagement.Application.Features.Circles.Models.CircleListModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Manager/Views/Shared/ManagerLayout.cshtml";
+}
+
+@if (Model.Count == 0)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Herhangi bir kayıt bulunamadı.</h3>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <table class="table table-bordered table table-striped">
+        <tr>
+            <th>Daire No</th>
+            <th>Kullanıcı</th>
+            <th>Kiracı - Sahibi</th>
+            <th>Yaşayan Kişi Sayısı</th>
+            <th>Sil</th>
+            <th>Güncelle</th>
+        </tr>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.CircleNo</td>
+                    <td>@item.User.FullName</td>
+                    <td>@item.TenantOwner</td>
+                    <td>@item.LivingPeopleCount</td>
+                    <td><a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.CircleId">Sil</a></td>
+                    <td><a class="btn btn-warning" asp-action="Update" asp-route-id="@item.CircleId">Güncelle</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+}
+
+<a class="btn btn-primary" asp-action="Create">Ekle</a>
+
+

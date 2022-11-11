@@ -1,0 +1,83 @@
+﻿@model ApartmentManagement.Application.Features.Dues.Commands.DuesCreateCommand.CreateDuesCommand
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Manager/Views/Shared/ManagerLayout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <form method="post">
+                    <label>Aidat Tipi</label>
+                    <input asp-for="DuesType" class="form-control" />
+                    <br />
+                    <select asp-for="CircleId" id="circleId" class="form-control">
+                        <option selected class="form-control">Seçiniz</option>
+                        @foreach (var item in ViewBag.circle)
+                        {
+                            
+
+                                <option value="@item.Value" class="form-control">@item.Text</option>
+                          
+                           
+                        }
+                    </select>
+                  
+
+                    <br />
+
+                    <select asp-for="UserId" id="userId" class="form-control">
+                        <option selected class="form-control">Seçiniz</option>
+                       @* @foreach (var item in ViewBag.users)
+                        {
+                            <option value="@item.Value" class="form-control">@item.Text</option>
+                        }*@
+
+                        <option value="userId"></option>
+                    </select>
+
+                    <br />
+
+                    <label>Aidat Fiyatı</label>
+                    <input asp-for="DuesPrice" class="form-control" />
+                    <br />
+
+
+
+                    <label>Ödenecek Tarih</label>
+                    <input asp-for="PaymentDate" class="form-control" />
+
+                    <br />
+
+                   
+                    <button type="submit" class="btn btn-primary">Ekle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/Admin/vendor/jquery/jquery.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function(){
+       
+        $("#circleId").change(function(){
+            var circleId = $(this).val();
+            $.ajax({
+                type: "Post",
+                url: "/Manager/Dues/UserGet?CircleId=" + circleId,
+                contentType: "html",
+
+                success: function (response) {
+
+
+                    $("#userId").empty();
+                    $("#userId").append(response);
+                }
+            });
+        })
+    });
+
+</script>

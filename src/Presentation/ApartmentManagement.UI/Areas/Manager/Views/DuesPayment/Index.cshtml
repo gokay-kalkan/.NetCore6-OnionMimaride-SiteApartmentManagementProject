@@ -1,0 +1,48 @@
+﻿@model List<ApartmentManagement.Application.Features.DuesPayments.Models.DuesListPaymentModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Manager/Views/Shared/ManagerLayout.cshtml";
+}
+
+@if (Model.Count == 0)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Herhangi bir kayıt bulunamadı.</h3>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <table class="table table-bordered table table-striped">
+        <tr>
+
+            <th>Ödeme Tutarı</th>
+        
+            <th>Ödendiği Tarih</th>
+
+            <th>Ödeyen Kullanıcı</th>
+           
+          
+        </tr>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.PaymentAmount</td>
+                   
+                    <td>@item.PaymentDate</td>
+                    <td>@item.User.FullName</td>
+                  
+                  
+                  
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+}
+
+

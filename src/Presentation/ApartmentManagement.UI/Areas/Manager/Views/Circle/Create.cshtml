@@ -1,0 +1,37 @@
+﻿@model ApartmentManagement.Application.Features.Circles.Commands.CircleCreateCommand.CreateCircleCommand
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Manager/Views/Shared/ManagerLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <form method="post">
+                    <label>Daire No</label>
+                    <input asp-for="CircleNo" class="form-control" />
+                    <br />
+                    <label>Kiracı Sahibi</label>
+                    <input asp-for="TenantOwner" class="form-control" />
+                    <br />
+
+                    <label>Yaşayan Kişi Sayısı</label>
+                    <input asp-for="LivingPeopleCount" class="form-control" />
+
+                    <br />
+
+                    <select asp-for="UserId" class="form-control">
+                        <option selected class="form-control">Seçiniz</option>
+                        @foreach (var item in ViewBag.users)
+                        {
+                            <option value="@item.Value" class="form-control">@item.Text</option>
+                        }
+                    </select>
+                    <button type="submit" class="btn btn-primary">Ekle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

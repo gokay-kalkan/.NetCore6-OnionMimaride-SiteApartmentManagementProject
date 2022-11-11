@@ -1,0 +1,12 @@
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\bin\Debug\net6.0\ApartmentManagement.Infrastructure.deps.json
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\bin\Debug\net6.0\ApartmentManagement.Infrastructure.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\bin\Debug\net6.0\ApartmentManagement.Infrastructure.pdb
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\ApartmentManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\ApartmentManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\ApartmentManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\ApartmentManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\ApartmentManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\ApartmentManagement.Infrastructure.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\refint\ApartmentManagement.Infrastructure.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\ApartmentManagement.Infrastructure.pdb
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\Infrastructure\ApartmentManagement.Infrastructure\obj\Debug\net6.0\ref\ApartmentManagement.Infrastructure.dll

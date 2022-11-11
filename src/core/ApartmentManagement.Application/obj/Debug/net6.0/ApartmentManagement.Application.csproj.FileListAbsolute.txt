@@ -1,0 +1,15 @@
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\bin\Debug\net6.0\ApartmentManagement.Application.deps.json
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\bin\Debug\net6.0\ApartmentManagement.Application.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\bin\Debug\net6.0\ApartmentManagement.Application.pdb
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\bin\Debug\net6.0\ApartmentManagement.Domain.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\bin\Debug\net6.0\ApartmentManagement.Domain.pdb
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ApartmentManagement.Application.csproj.AssemblyReference.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ApartmentManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ApartmentManagement.Application.AssemblyInfoInputs.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ApartmentManagement.Application.AssemblyInfo.cs
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ApartmentManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ApartmentManagement.Application.csproj.CopyComplete
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ApartmentManagement.Application.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\refint\ApartmentManagement.Application.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ApartmentManagement.Application.pdb
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Application\obj\Debug\net6.0\ref\ApartmentManagement.Application.dll

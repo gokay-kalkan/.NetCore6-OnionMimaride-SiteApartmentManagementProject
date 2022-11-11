@@ -1,0 +1,60 @@
+﻿@model ApartmentManagement.Application.Features.Dues.Models.DuesGetByIdModel
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/Manager/Views/Shared/ManagerLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <form method="post">
+                    <input type="hidden" asp-for="DuesId" />
+                    <label>Aidat Tipi</label>
+                    <input asp-for="DuesType" class="form-control" />
+                    <br />
+
+                    <input type="hidden" asp-for="CircleId"/>
+
+                    <input type="hidden" asp-for="UserId"/>
+                    @*<select asp-for="CircleId" class="form-control">
+                        <option selected class="form-control">Seçiniz</option>
+                        @foreach (var item in ViewBag.circle)
+                        {
+                            <option value="@item.Value" class="form-control">@item.Text</option>
+                        }
+                    </select>
+
+
+                    <br />
+
+                    <select asp-for="UserId" class="form-control">
+                        <option selected class="form-control">Seçiniz</option>
+                        @foreach (var item in ViewBag.users)
+                        {
+                            <option value="@item.Value" class="form-control">@item.Text</option>
+                        }
+                    </select>
+*@
+                    <br />
+
+                    <label>Aidat Fiyatı</label>
+                    <input asp-for="DuesPrice" class="form-control" />
+                    <br />
+
+
+
+                    <label>Ödenecek Tarih</label>
+                    <input asp-for="PaymentDate" type="date" class="form-control" />
+
+                    <br />
+
+
+                    <button type="submit" class="btn btn-primary">Güncelle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

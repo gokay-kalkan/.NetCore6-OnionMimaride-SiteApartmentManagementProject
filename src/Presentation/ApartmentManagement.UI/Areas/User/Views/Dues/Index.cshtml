@@ -1,0 +1,60 @@
+﻿@model List<ApartmentManagement.Application.Features.Dues.Models.DuesListModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/User/Views/Shared/UserLayout.cshtml";
+}
+
+@if (Model.Count == 0)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Herhangi bir kayıt bulunamadı.</h3>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <table class="table table-bordered table table-striped">
+        <tr>
+
+            <th>Aidat Tipi</th>
+          @*  <th>Daire</th>
+            <th>Kullanıcı</th>*@
+            <th>Aidat Tutarı</th>
+            <th>Ödeme Tarihi</th>
+            <th>Ödeme Durumu</th>
+            
+            <th>Aidatı Öde</th>
+           @* <th>Sil</th>
+            <th>Güncelle</th>*@
+        </tr>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.DuesType</td>
+                  @*  <td>@item.Circle.CircleNo</td>
+                    <td>@item.User.FullName</td>*@
+                    <td>@item.DuesPrice</td>
+                    <td>@item.PaymentDate</td>
+                    <td>@item.PaidStatus</td>
+                    @if(item.PaidStatus==false){
+                        <td><a class="btn btn-success" asp-action="DuesPaid" asp-route-id="@item.DuesId"> Aidatı Öde</a></td>
+                    }
+                    else{
+                        <td><h3 class="text text-success">Ödendi</h3></td>
+                    }
+                  
+                   @* <td><a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.DuesId">Sil</a></td>
+                    <td><a class="btn btn-warning" asp-action="Update" asp-route-id="@item.DuesId">Güncelle</a></td>*@
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+}
+
+<a class="btn btn-primary" asp-action="Create">Ekle</a>
+

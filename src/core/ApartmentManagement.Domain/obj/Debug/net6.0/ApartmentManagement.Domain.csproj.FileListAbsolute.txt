@@ -1,0 +1,12 @@
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\bin\Debug\net6.0\ApartmentManagement.Domain.deps.json
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\bin\Debug\net6.0\ApartmentManagement.Domain.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\bin\Debug\net6.0\ApartmentManagement.Domain.pdb
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\ApartmentManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\ApartmentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\ApartmentManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\ApartmentManagement.Domain.AssemblyInfo.cs
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\ApartmentManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\ApartmentManagement.Domain.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\refint\ApartmentManagement.Domain.dll
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\ApartmentManagement.Domain.pdb
+C:\Users\gkykl\OneDrive\Masaüstü\ASP.NETCORE\ApartmentManagement\src\core\ApartmentManagement.Domain\obj\Debug\net6.0\ref\ApartmentManagement.Domain.dll

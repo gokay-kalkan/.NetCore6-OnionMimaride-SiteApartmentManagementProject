@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7GFLjHGp0KHa+IO02XQ4Wxlmm1h5CWcqHKnWMh3iEbQbGOirsVeoDPXsu/Y/m8AUAGzn7B7XTG50rRxVh/YAFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gkykl\\OneDrive\\Masaüstü\\ASP.NETCORE\\ApartmentManagement\\src\\Infrastructure\\ApartmentManagement.Infrastructure\\ApartmentManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gkykl\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\gkykl\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gkykl\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

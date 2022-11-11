@@ -1,0 +1,11 @@
+﻿
+<option value="">User Seç</option>
+
+@if (ViewBag.user != null)
+{
+    @foreach (var item in ViewBag.user)
+    {
+        <option value="@item.Value">@item.Text</option>
+    }
+
+}
